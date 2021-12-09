@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="text1">Курс</string>
+    <string name="text2">Факультет</string>
+    <string name="c_1">Курс 1</string>
+    <string name="с_2">Курс 2</string>
+    <string name="с_3">Курс 3</string>
+    <string name="с_4">Курс 4</string>
+    <string name="f_fict">ФІОТ</string>
+    <string name="f_fpm">ФПМ</string>
+    <string name="f_ipsa">ІПСА</string>
+    <string name="f_faks">ФАКС</string>
+</resources>
