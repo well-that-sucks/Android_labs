@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="open_audio">Open audio file</string>
+    <string name="open_video">Open video file</string>
+    <string name="open_web">Open via web</string>
+    <string name="browse">Browse</string>
+    <string name="search">Search</string>
+</resources>
